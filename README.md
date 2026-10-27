@@ -35,17 +35,5 @@
 
 </div>
 
-<div align="center">
-
-
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/voodookiidoo)
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=voodookiidoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-
-</div>
 
 ---
