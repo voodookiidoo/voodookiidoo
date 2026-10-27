@@ -11,19 +11,20 @@
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-0d0017?style=for-the-badge&logo=go&logoColor=00119C)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff79c6)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=Kotlin&logoColor=00FF9C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=Kotlin&logoColor=00FF9C)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF9C)
+![Go](https://img.shields.io/badge/Go-0d0017?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=Kotlin&logoColor=B47AEA)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B)
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ff79c6)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=57A143)
+![Postgres](https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=postgresql&logoColor=6699CC)
+![Prom](https://img.shields.io/badge/prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![grafana](https://img.shields.io/badge/grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 
-[//]: # (![Postgres]&#40;https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=postgresql&logoColor=57A143&#41;)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -37,16 +38,14 @@
 <div align="center">
 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/voodookiidoo)
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gri-ffin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=voodookiidoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 
 <br/><br/>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gri-ffin&bg_color=0d1117&color=00FF9C&line=ff79c6&point=ffffff&area=true&hide_border=true&area_color=00FF9C)](https://github.com/Gri-ffin)
 
 </div>
 
 ---
-
