@@ -11,7 +11,7 @@
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-0d0017?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=DEA584)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=Kotlin&logoColor=B47AEA)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
